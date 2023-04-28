@@ -1,4 +1,4 @@
-# chatbot-addon
+# chat-addon
 
 ## What it does
 
